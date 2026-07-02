@@ -1,0 +1,4 @@
+# Don't commit binaries — the .dmg is attached as a GitHub Release asset instead.
+*.dmg
+*.zip
+.DS_Store
