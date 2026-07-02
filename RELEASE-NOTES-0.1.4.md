@@ -15,6 +15,6 @@ into one private, AI-searchable library — with exact page and timestamp citati
 2. First launch: **right-click → Open → Open** (one-time macOS prompt).
 3. Settings (⌘,) → AI Model → paste a free [Gemini key](https://aistudio.google.com/apikey).
 
-Free for 14 days, full features, no code needed. Requires macOS 14+.
+Free for 14 days, full features, no code needed. Requires an Apple Silicon Mac (M1 or later) and macOS 14+.
 
 Questions/bugs: abbas.j.mohamed@gmail.com
