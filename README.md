@@ -38,6 +38,8 @@
 ## ⬇️ Download
 Grab the latest `.dmg` from the **[Releases page](../../releases/latest)**.
 
+> 🌐 **Website:** _coming soon_ — a one-click download page is on the way. <!-- TODO: replace with https://inkvault.app once live -->
+
 **Requirements:** macOS 14 (Sonoma)+ · a free [Google Gemini API key](https://aistudio.google.com/apikey) for OCR, transcription, and Ask AI (search works locally).
 
 ## 🚀 Install
