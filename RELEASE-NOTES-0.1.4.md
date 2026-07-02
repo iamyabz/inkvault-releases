@@ -17,4 +17,4 @@ into one private, AI-searchable library — with exact page and timestamp citati
 
 Free for 14 days, full features, no code needed. Requires macOS 14+.
 
-Questions/bugs: asim.j.mohamed@gmail.com
+Questions/bugs: abbas.j.mohamed@gmail.com
